@@ -12,6 +12,3 @@ RUN apk add make \
 RUN curl -sSL https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py | python
 
 WORKDIR /usr/src/app
-
-
-
